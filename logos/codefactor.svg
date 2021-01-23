@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="184px" viewBox="0 0 256 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-		<g fill-rule="nonzero">
-				<rect fill="#EB2926" x="21.0618182" y="0" width="32.8145455" height="24.7854545"></rect>
-				<rect fill="#F26925" x="55.2727273" y="0" width="69.0036364" height="24.7854545"></rect>
-				<rect fill="#A8CF38" x="126.138182" y="0" width="129.047273" height="24.7854545"></rect>
-				<rect fill="#F26925" x="167.796364" y="52.9454545" width="58.9963636" height="24.7854545"></rect>
-				<rect fill="#EB2926" x="104.610909" y="52.9454545" width="61.2072727" height="24.7854545"></rect>
-				<rect fill="#F26925" x="22.2254545" y="104.727273" width="59.2290909" height="24.7854545"></rect>
-				<rect fill="#0BB1DC" x="82.7345455" y="104.727273" width="83.2" height="24.7854545"></rect>
-				<rect fill="#EB2926" x="167.796364" y="104.727273" width="85.6436364" height="24.7854545"></rect>
-				<rect fill="#FBEC06" x="109.614545" y="158.254545" width="71.7963636" height="24.7854545"></rect>
-				<rect fill="#0BB1DC" x="184.087273" y="158.254545" width="40.6109091" height="24.7854545"></rect>
-				<rect fill="#A8CF38" x="0.814545455" y="158.254545" width="106.589091" height="24.7854545"></rect>
-				<rect fill="#0BB1DC" x="2.21090909" y="52.9454545" width="101.236364" height="24.7854545"></rect>
-		</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="184" preserveAspectRatio="xMidYMid" version="1.1" viewBox="0 0 256 184"><g fill-rule="nonzero"><rect width="32.815" height="24.785" x="21.062" y="0" fill="#EB2926"/><rect width="69.004" height="24.785" x="55.273" y="0" fill="#F26925"/><rect width="129.047" height="24.785" x="126.138" y="0" fill="#A8CF38"/><rect width="58.996" height="24.785" x="167.796" y="52.945" fill="#F26925"/><rect width="61.207" height="24.785" x="104.611" y="52.945" fill="#EB2926"/><rect width="59.229" height="24.785" x="22.225" y="104.727" fill="#F26925"/><rect width="83.2" height="24.785" x="82.735" y="104.727" fill="#0BB1DC"/><rect width="85.644" height="24.785" x="167.796" y="104.727" fill="#EB2926"/><rect width="71.796" height="24.785" x="109.615" y="158.255" fill="#FBEC06"/><rect width="40.611" height="24.785" x="184.087" y="158.255" fill="#0BB1DC"/><rect width="106.589" height="24.785" x=".815" y="158.255" fill="#A8CF38"/><rect width="101.236" height="24.785" x="2.211" y="52.945" fill="#0BB1DC"/></g></svg>
